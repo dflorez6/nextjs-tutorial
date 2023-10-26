@@ -1,8 +1,8 @@
 # NEXT.JS TUTORIAL FROM OFFICIAL DOCUMENTATION
+https://nextjs.org/learn
 
 # DEVELOPMENT
 
-https://nextjs.org/learn
 
 <!--
     To preview .md files on VSCode:
