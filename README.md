@@ -1,5 +1,7 @@
 # NEXT.JS TUTORIAL FROM OFFICIAL DOCUMENTATION
 
+# DEVELOPMENT
+
 https://nextjs.org/learn
 
 <!--
@@ -63,3 +65,9 @@ https://nextjs.org/docs/pages/building-your-application/routing/api-routes
 
 - Creating API Routes
   https://nextjs.org/learn-pages-router/basics/api-routes/creating-api-routes
+
+# DEPLOYMENT
+
+## Deploy to Vercel
+
+https://nextjs.org/learn-pages-router/basics/deploying-nextjs-app/deploy
